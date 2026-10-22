@@ -123,5 +123,5 @@ PS D:\starter-kit\trung-tam-tieng-anh> history
 
 ## Tự chấm (điền sau khi có đáp án)
 
-- **Điểm tự chấm:** ..../100
+- **Điểm tự chấm:** 100/100
 - **Lỗi mình đã mắc và cách sửa:**
